@@ -12,6 +12,15 @@ and confidence can guide the next step in a lesson on the mean.
   answering correctly. The demo can export a session log as JSON.
 
 ## Run locally
+## Demo screenshots
+
+**Statistics practice**
+
+![Statistics demo showing feedback and a follow-up question](statistic-demo.png)
+
+**Sharing Detectives**
+
+![Sharing Detectives showing three groups of blocks and the Move one block controls](SharingDetective.png)
 
 Use Python 3.12. Open a terminal in the project folder and install
 Streamlit:
