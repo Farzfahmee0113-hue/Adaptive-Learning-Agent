@@ -49,6 +49,17 @@ from Jo to Alex to create three equal groups, then enter `6` and
 choose the equal-sharing explanation. Open **Developer tools:
 interaction log** to inspect and download the recorded events.
 
+## Research question
+
+Does feedback based on both answer correctness and self-reported
+confidence help learners apply the concept of the mean to a new
+problem, compared with feedback based on correctness alone?
+
+The visual demo logs answer attempts, confidence ratings, block
+movements, and explanation choices. In a future study, I would
+compare the two feedback approaches and ask learners to solve a
+new problem without hints.
+
 ## Project status
 
 Both demos use prepared questions and rule-based feedback.
