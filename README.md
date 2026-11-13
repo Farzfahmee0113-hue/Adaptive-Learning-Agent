@@ -3,6 +3,10 @@
 A Python and Streamlit prototype that explores how a learner’s answer
 and confidence can guide the next step in a lesson on the mean.
 
+## Live demo
+
+[Try Sharing Detectives](https://adaptive-learning-agent-5xmutywa8qwx3fhdzzrf8s.streamlit.app/)
+
 ## Two demos
 
 - **Statistics practice (`app.py`)** uses answer correctness and
